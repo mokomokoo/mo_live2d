@@ -29,7 +29,7 @@
 			"Ids": []
 		}
 	],
-	"Expressions": [
+	"expressions": [
       {
         "Name": "moko",
         "File": "expressions/moko.exp3.json"
