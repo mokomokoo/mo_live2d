@@ -34,5 +34,12 @@
         "Name": "moko",
         "File": "expressions/moko.exp3.json"
       }
+    ],
+	"motions": {
+    "idle": [
+      {"file": "motions/1.motion3.json", "fade_in": 2000, "fade_out": 2000},
+      {"file": "motions/2.motion3.json", "fade_in": 2000, "fade_out": 2000},
+      {"file": "motions/3.motion3.json", "fade_in": 2000, "fade_out": 2000}
     ]
+  }
 }
