@@ -28,5 +28,11 @@
 			"Name": "LipSync",
 			"Ids": []
 		}
-	]
+	],
+	"Expressions": [
+      {
+        "Name": "f00",
+        "File": "moko.exp3.json"
+      }
+    ]
 }
