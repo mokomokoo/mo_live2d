@@ -31,8 +31,8 @@
 	],
 	"Expressions": [
       {
-        "Name": "f00",
-        "File": "moko.exp3.json"
+        "Name": "moko",
+        "File": "expressions/moko.exp3.json"
       }
     ]
 }
