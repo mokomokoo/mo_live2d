@@ -29,13 +29,13 @@
 			"Ids": []
 		}
 	],
-	"expressions": [
+	"Expressions": [
       {
         "Name": "moko",
         "File": "expressions/moko.exp3.json"
       }
     ],
-	"motions": {
+	"Motions": {
     "idle": [
       {"file": "motions/1.motion3.json", "fade_in": 2000, "fade_out": 2000},
       {"file": "motions/2.motion3.json", "fade_in": 2000, "fade_out": 2000},
